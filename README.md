@@ -22,3 +22,5 @@ Contrôler son téléphone depuis un PC pour plus de confort
 Profiter de la puissance et du grand écran de son ordinateur
 
 📝 Ce projet est idéal pour le dépannage, la démonstration ou simplement améliorer votre expérience mobile depuis un ordinateur.
+
+Ce projet a été réalisé en 2023. (aider/utiliser des documentations, tuto, et différentes ressources)
