@@ -25,5 +25,4 @@ Profiter de la puissance et du grand écran de son ordinateur
 
 Ce projet a été réalisé en 2023, en s’appuyant sur des documentations, des tutoriels et différentes ressources.
 
-# Author Of That Project
-## Ben-dev276
+# Author : Ben-dev276
